@@ -326,6 +326,10 @@
             "title": "wan 2.2 Playbook",
             "description": "All-in-one research hub for wan 2.2 traffic tests"
           },
+          "sora2": {
+            "title": "Sora 2 OpenAI Center",
+            "description": "Playbooks for shipping Sora 2 video experiences"
+          },
           "about": {
             "title": "About",
             "description": "Learn more about our team and product vision"
@@ -377,6 +381,7 @@
           "gallery": "Gallery",
           "tutorials": "Tutorials",
           "wan22": "wan 2.2 Playbook",
+          "sora2": "Sora 2 OpenAI Center",
           "docs": "Documentation",
           "blog": "Blog"
         }
