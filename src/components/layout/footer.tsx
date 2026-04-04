@@ -134,7 +134,7 @@ export function Footer({ className }: React.HTMLAttributes<HTMLElement>) {
           </div>
         </Container>
       </div>
-                {/* WHITE-LINK-FANOUT:START */}
+                      {/* WHITE-LINK-FANOUT:START */}
       <div className="mt-6 border-t border-border/40 pt-4 text-center">
         <p className="text-xs font-medium uppercase tracking-[0.2em] text-muted-foreground/80">
           Related Sites
