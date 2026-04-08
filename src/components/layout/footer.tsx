@@ -141,13 +141,13 @@ export function Footer({ className }: React.HTMLAttributes<HTMLElement>) {
         </p>
         <div className="mt-3 flex flex-wrap justify-center gap-x-4 gap-y-2">
         <a
-          key="songunique.com"
-          href="https://songunique.com"
+          key="happy-horse.cc"
+          href="https://happy-horse.cc"
           target="_blank"
           rel="noopener noreferrer"
           className="text-xs text-muted-foreground hover:text-foreground transition-colors"
         >
-          songunique.com
+          happy-horse.cc
         </a>
         </div>
       </div>
